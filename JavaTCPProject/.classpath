@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_151"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/gson-2.8.7.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/json-20180813.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-examples-5.2.2.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-excelant-5.2.2.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-javadoc-5.2.2.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-5.2.2.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-full-5.2.2.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-lite-5.2.2.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
