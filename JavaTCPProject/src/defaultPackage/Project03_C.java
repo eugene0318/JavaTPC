@@ -11,7 +11,7 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Row;
 
-public class JavaTPC03_C {
+public class Project03_C {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
