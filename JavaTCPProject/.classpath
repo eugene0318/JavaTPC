@@ -17,5 +17,6 @@
 	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar"/>
 	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-4.1.2.jar"/>
 	<classpathentry kind="lib" path="d:/EugineLee/Downloads/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/itextpdf-5.5.13.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
