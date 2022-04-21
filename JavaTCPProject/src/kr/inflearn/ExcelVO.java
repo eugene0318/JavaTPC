@@ -17,6 +17,14 @@ public class ExcelVO {
 		this.author = author;
 		this.company = company;
 	}
+	public ExcelVO(String title, String author, String company, String isbn, String imgurl) {
+		super();
+		this.title = title;
+		this.author = author;
+		this.company = company;
+		this.isbn = isbn;
+		this.imgurl = imgurl;
+	}
 
 	public String getTitle() {
 		return title;
