@@ -18,5 +18,6 @@
 	<classpathentry kind="lib" path="d:/EugineLee/Downloads/poi-4.1.2.jar"/>
 	<classpathentry kind="lib" path="d:/EugineLee/Downloads/commons-fileupload-1.4.jar"/>
 	<classpathentry kind="lib" path="d:/EugineLee/Downloads/itextpdf-5.5.13.jar"/>
+	<classpathentry kind="lib" path="d:/EugineLee/Downloads/org.eclipse.paho.client.mqttv3-1.2.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
